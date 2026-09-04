@@ -9,4 +9,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shourya-18/Leetcode-solution/tree/master/0205-isomorphic-strings) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/Shourya-18/Leetcode-solution/tree/master/1957-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
