@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shourya-18/Leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Shourya-18/Leetcode-solution/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Shourya-18/Leetcode-solution/tree/master/0139-word-break) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shourya-18/Leetcode-solution/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
