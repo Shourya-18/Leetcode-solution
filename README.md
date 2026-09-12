@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Shourya-18/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shourya-18/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/Shourya-18/Leetcode-solution/tree/master/0796-rotate-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shourya-18/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Shourya-18/Leetcode-solution/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Two Pointers
 |  |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Shourya-18/Leetcode-solution/tree/master/0112-path-sum) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shourya-18/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shourya-18/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
