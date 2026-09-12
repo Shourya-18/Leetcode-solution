@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shourya-18/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/Shourya-18/Leetcode-solution/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Shourya-18/Leetcode-solution/tree/master/0205-isomorphic-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Shourya-18/Leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shourya-18/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/Shourya-18/Leetcode-solution/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shourya-18/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Shourya-18/Leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Shourya-18/Leetcode-solution/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Two Pointers
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shourya-18/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Shourya-18/Leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
