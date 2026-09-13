@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Shourya-18/Leetcode-solution/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Shourya-18/Leetcode-solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Shourya-18/Leetcode-solution/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/Shourya-18/Leetcode-solution/tree/master/0441-arranging-coins) |
 ## Array
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shourya-18/Leetcode-solution/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/Shourya-18/Leetcode-solution/tree/master/0441-arranging-coins) |
 ## Newton's Method
 |  |
 | ------- |
