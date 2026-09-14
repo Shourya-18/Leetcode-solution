@@ -104,9 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Shourya-18/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Shourya-18/Leetcode-solution/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/Shourya-18/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Shourya-18/Leetcode-solution/tree/master/0441-arranging-coins) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shourya-18/Leetcode-solution/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Shourya-18/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
