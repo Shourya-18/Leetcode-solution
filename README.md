@@ -82,10 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Shourya-18/Leetcode-solution/tree/master/0112-path-sum) |
+| [0684-redundant-connection](https://github.com/Shourya-18/Leetcode-solution/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Shourya-18/Leetcode-solution/tree/master/0112-path-sum) |
+| [0684-redundant-connection](https://github.com/Shourya-18/Leetcode-solution/tree/master/0684-redundant-connection) |
 ## Binary Tree
 |  |
 | ------- |
@@ -120,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Shourya-18/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Shourya-18/Leetcode-solution/tree/master/0684-redundant-connection) |
+## Graph Theory
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Shourya-18/Leetcode-solution/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
