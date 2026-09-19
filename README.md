@@ -83,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Shourya-18/Leetcode-solution/tree/master/0112-path-sum) |
 | [0684-redundant-connection](https://github.com/Shourya-18/Leetcode-solution/tree/master/0684-redundant-connection) |
+| [0802-find-eventual-safe-states](https://github.com/Shourya-18/Leetcode-solution/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Shourya-18/Leetcode-solution/tree/master/0112-path-sum) |
 | [0684-redundant-connection](https://github.com/Shourya-18/Leetcode-solution/tree/master/0684-redundant-connection) |
+| [0802-find-eventual-safe-states](https://github.com/Shourya-18/Leetcode-solution/tree/master/0802-find-eventual-safe-states) |
 ## Binary Tree
 |  |
 | ------- |
@@ -130,4 +132,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Shourya-18/Leetcode-solution/tree/master/0684-redundant-connection) |
+| [0802-find-eventual-safe-states](https://github.com/Shourya-18/Leetcode-solution/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Shourya-18/Leetcode-solution/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Shourya-18/Leetcode-solution/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Shourya-18/Leetcode-solution/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
