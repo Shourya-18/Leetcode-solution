@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shourya-18/Leetcode-solution/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [1514-path-with-maximum-probability](https://github.com/Shourya-18/Leetcode-solution/tree/master/1514-path-with-maximum-probability) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/Shourya-18/Leetcode-solution/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/Shourya-18/Leetcode-solution/tree/master/0802-find-eventual-safe-states) |
+| [1514-path-with-maximum-probability](https://github.com/Shourya-18/Leetcode-solution/tree/master/1514-path-with-maximum-probability) |
 ## Topological Sort
 |  |
 | ------- |
@@ -147,4 +149,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Shourya-18/Leetcode-solution/tree/master/0802-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/Shourya-18/Leetcode-solution/tree/master/1514-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/Shourya-18/Leetcode-solution/tree/master/1514-path-with-maximum-probability) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/Shourya-18/Leetcode-solution/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
