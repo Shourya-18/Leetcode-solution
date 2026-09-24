@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shourya-18/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Shourya-18/Leetcode-solution/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/Shourya-18/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [1514-path-with-maximum-probability](https://github.com/Shourya-18/Leetcode-solution/tree/master/1514-path-with-maximum-probability) |
 ## Dynamic Programming
