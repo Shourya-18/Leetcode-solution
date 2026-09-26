@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shourya-18/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shourya-18/Leetcode-solution/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/Shourya-18/Leetcode-solution/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shourya-18/Leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shourya-18/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Shourya-18/Leetcode-solution/tree/master/0139-word-break) |
@@ -162,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1514-path-with-maximum-probability](https://github.com/Shourya-18/Leetcode-solution/tree/master/1514-path-with-maximum-probability) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shourya-18/Leetcode-solution/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shourya-18/Leetcode-solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
