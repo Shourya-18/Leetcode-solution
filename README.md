@@ -81,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shourya-18/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Shourya-18/Leetcode-solution/tree/master/0112-path-sum) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shourya-18/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Shourya-18/Leetcode-solution/tree/master/0112-path-sum) |
 | [0684-redundant-connection](https://github.com/Shourya-18/Leetcode-solution/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/Shourya-18/Leetcode-solution/tree/master/0802-find-eventual-safe-states) |
@@ -98,11 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shourya-18/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Shourya-18/Leetcode-solution/tree/master/0112-path-sum) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shourya-18/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shourya-18/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
