@@ -85,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shourya-18/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Shourya-18/Leetcode-solution/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shourya-18/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Shourya-18/Leetcode-solution/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Shourya-18/Leetcode-solution/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/Shourya-18/Leetcode-solution/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shourya-18/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Shourya-18/Leetcode-solution/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Stack
 |  |
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Shourya-18/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
