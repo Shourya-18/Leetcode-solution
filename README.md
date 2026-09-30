@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shourya-18/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Shourya-18/Leetcode-solution/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Shourya-18/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Shourya-18/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [1514-path-with-maximum-probability](https://github.com/Shourya-18/Leetcode-solution/tree/master/1514-path-with-maximum-probability) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shourya-18/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Shourya-18/Leetcode-solution/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/Shourya-18/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shourya-18/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shourya-18/Leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Shourya-18/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shourya-18/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Shourya-18/Leetcode-solution/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Shourya-18/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
