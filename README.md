@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shourya-18/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Shourya-18/Leetcode-solution/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shourya-18/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Shourya-18/Leetcode-solution/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Shourya-18/Leetcode-solution/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/Shourya-18/Leetcode-solution/tree/master/0802-find-eventual-safe-states) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Shourya-18/Leetcode-solution/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/Shourya-18/Leetcode-solution/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/Shourya-18/Leetcode-solution/tree/master/0802-find-eventual-safe-states) |
 ## Binary Tree
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shourya-18/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Shourya-18/Leetcode-solution/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
