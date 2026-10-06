@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Shourya-18/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Shourya-18/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [1095-find-in-mountain-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/1095-find-in-mountain-array) |
 | [1514-path-with-maximum-probability](https://github.com/Shourya-18/Leetcode-solution/tree/master/1514-path-with-maximum-probability) |
 ## Dynamic Programming
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Shourya-18/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Shourya-18/Leetcode-solution/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [1095-find-in-mountain-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/1095-find-in-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Shourya-18/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/1095-find-in-mountain-array) |
 ## Union-Find
 |  |
 | ------- |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Shourya-18/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
