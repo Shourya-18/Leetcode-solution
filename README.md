@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Shourya-18/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Shourya-18/Leetcode-solution/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Shourya-18/Leetcode-solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Shourya-18/Leetcode-solution/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/Shourya-18/Leetcode-solution/tree/master/0441-arranging-coins) |
 ## Array
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shourya-18/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Shourya-18/Leetcode-solution/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Shourya-18/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Shourya-18/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
