@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shourya-18/Leetcode-solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Shourya-18/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shourya-18/Leetcode-solution/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/Shourya-18/Leetcode-solution/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Shourya-18/Leetcode-solution/tree/master/0441-arranging-coins) |
 ## Array
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shourya-18/Leetcode-solution/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/Shourya-18/Leetcode-solution/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shourya-18/Leetcode-solution/tree/master/0078-subsets) |
+| [0342-power-of-four](https://github.com/Shourya-18/Leetcode-solution/tree/master/0342-power-of-four) |
 ## Binary Search Tree
 |  |
 | ------- |
